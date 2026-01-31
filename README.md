@@ -1,25 +1,43 @@
-# 🍅 Pomodoro Timer
+# 🍅 Pomodoro
 
-> Stay focused, work smarter — the classic productivity technique, reimagined
+**Focus timer with beautiful design**
 
-## What is it?
+> *A beautifully designed Pomodoro technique timer to boost your productivity and focus.*
 
-Pomodoro Timer is a productivity tool based on the Pomodoro Technique — work in focused 25-minute intervals separated by short breaks. This project explores the design and UX of a beautiful, minimal timer that helps you stay in the zone.
+## What It Does
 
-## 🎯 Concept
+Pomodoro is a productivity timer app concept based on the Pomodoro Technique — work in focused 25-minute intervals with short breaks. The project features multiple design explorations for the timer interface, with different visual styles ranging from minimal stopwatch layouts to elegant watch-inspired designs.
 
-This project represents the design and planning phase of a Pomodoro timer application. The vision includes:
+## 🎯 Planned Features
 
-- ⏱️ **Focus Timer** — Classic 25/5 Pomodoro cycles with customizable durations
-- 🔔 **Break Reminders** — Audio and visual cues when it's time to rest
-- 📊 **Session History** — Track completed Pomodoros and total focus time
-- 🎨 **Beautiful Watchface Designs** — Multiple timer visualizations and themes
-- 📱 **Minimal Interface** — Distraction-free design that stays out of your way
-- 🔄 **Auto-Cycle** — Seamlessly transitions between work and break periods
+- ⏱️ 25-minute focus sessions with 5-minute breaks
+- 🔁 Automatic session cycling (4 pomodoros then long break)
+- 🎨 Multiple timer visual themes
+- 📊 Daily focus time tracking
+- 🔔 Audio notifications for session transitions
+- 📱 Clean, distraction-free interface
+- 🌙 Dark mode support
+
+## 🖼️ Design Explorations
+
+The repository contains multiple design variations:
+
+- `stopwatch.jpg` — Stopwatch-style timer design
+- `watch.jpg` — Classic watch-inspired layout
+- `watch2.jpg` — Alternative watch design
+- `watch3.jpg` — Minimal watch concept
+- `watch4.jpg` — Modern watch variation
+
+## 🛠️ Planned Tech Stack
+
+- **React** or **Svelte** — Frontend framework
+- **Web Audio API** — Timer notifications
+- **CSS Animations** — Smooth timer visuals
+- **LocalStorage** — Session persistence
 
 ## 🚀 Status
 
-🛠️ **In Development** — Currently in the design and prototyping phase.
+🎨 **Design Phase** — Multiple visual concepts explored. Development not yet started.
 
 ## 📄 License
 
